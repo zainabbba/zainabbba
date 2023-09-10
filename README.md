@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabbba" alt="zainabbba" /></a> </p>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **PHP**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
