@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">A passionate Full stack Deveolperfrom Saudi Arabia</h3>
+<h3 align="center">A passionate Full stack Deveolper from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabbba&label=Profile%20views&color=0e75b6&style=flat" alt="zainabbba" /> </p>
 
