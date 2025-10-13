@@ -20,11 +20,11 @@ Currently focusing on projects that blend **AI, data visualization, and automati
 
 ### 🚀 Featured Projects
 
-#### 🕋 [Wofoud – Hajjathon 3 Finalist](https://github.com/zainabbba/wofood)
+#### 🕋 [Wofoud – Hajjathon 3](https://github.com/zainabbba/Wofoud)
 AI system for **predicting bus crowding** and managing **pilgrim movement** with real-time dashboards.  
 *Tech:* Python, scikit-learn, Power BI, face recognition
 
-#### 📚 [Allam Hackathon Project](https://github.com/zainabbba/allam)
+#### 📚 [Allam Hackathon Project](https://github.com/zainabbba/Allam-Hackathon-Project)
 Arabic **AI-powered learning assistant** that helps children learn Arabic grammar using LangChain & NLP.  
 *Tech:* LangChain, BERTScore, Python
 
@@ -36,7 +36,7 @@ Face verification using **DeepFace** for access control and attendance systems.
 Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM data.  
 *Tech:* SQL, Power BI, Python automation scripts
 
-#### 💹 Tadawul AI Tool
+#### 💹 [Tadawul AI Tool](https://github.com/zainabbba/Tadawul-AI-Tool)
 AI tool analyzes **news from Saudi stock market companies** to help investors.  
 It uses **NLP** to identify market trends, categorize news by relevance, and summarize key points — providing valuable insights for **investment decisions**.  
 *Tech:* Python, NLP, Text Summarization, Sentiment Analysis
