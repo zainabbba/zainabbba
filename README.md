@@ -13,7 +13,7 @@ Currently focusing on projects that blend **AI, data visualization, and automati
 - 🔭 I’m currently working on **AI projects for crowd prediction, face recognition, and Arabic NLP.**  
 - 💡 I enjoy building **Power BI dashboards** that make data come alive.  
 - 🌱 Learning more about **Azure AI, MLOps, and Data Engineering.**  
-- ⚙️ Skilled in: `Python`, `Pandas`, `Scikit-learn`, `DeepFace`, `LangChain`, `Power BI`, `SQL`, `Azure AI`  
+- ⚙️ Skilled in: `Python`, `Pandas`, `Scikit-learn`, `DeepFace`, `LangChain`, `Power BI`, `SQL`, `Azure AI`, `Web Scraping`  
 - 💬 Ask me about **AI use cases, hackathons, and turning data into insights!**
 
 ---
@@ -28,26 +28,26 @@ AI system for **predicting bus crowding** and managing **pilgrim movement** with
 Arabic **AI-powered learning assistant** that helps children learn Arabic grammar using LangChain & NLP.  
 *Tech:* LangChain, BERTScore, Python
 
-#### 👁️ Face Recognition System
-Face verification using **DeepFace** for access control and attendance systems.  
-*Tech:* DeepFace, OpenCV, Python  
-
-#### 📊 Data Analytics Dashboards
-Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM data.  
-*Tech:* SQL, Power BI, Python automation scripts
-
 #### 💹 [Tadawul AI Tool](https://github.com/zainabbba/Tadawul-AI-Tool)
 AI tool analyzes **news from Saudi stock market companies** to help investors.  
 It uses **NLP** to identify market trends, categorize news by relevance, and summarize key points — providing valuable insights for **investment decisions**.  
 *Tech:* Python, NLP, Text Summarization, Sentiment Analysis
 
-#### 🧠 [Deep Phishing Detector](https://github.com/zainabbba/Phishing-Detection-System#)
+#### 🧠 [Deep Phishing Detector](https://github.com/zainabbba/Phishing-Detection-System)
 A system that efficiently detects **phishing websites** by classifying URLs as either **phishing or legitimate** using **CNN, LSTM, and hybrid LSTM-CNN** architectures.  
 *Tech:* Deep Learning, CNN, LSTM, Python
 
 #### 💉 [AI-powered COVID Vaccine Sentiment Analyzer](https://github.com/zainabbba/Sentiment-Analysis-System)
 A sentiment analysis system identifying **Saudi sentiments toward the COVID-19 vaccine** — helping understand public perceptions, concerns, and emotions that may influence **herd immunity goals**.  
 *Tech:* NLP, Sentiment Analysis, Python, Data Visualization
+
+#### 👁️ Face Recognition System
+Face verification using **DeepFace** for access control and attendance systems.  
+*Tech:* DeepFace, OpenCV, Python, Web Scraping  
+
+#### 📊 Data Analytics Dashboards
+Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM data.  
+*Tech:* SQL, Power BI, Python automation scripts, Web Scraping
 
 ---
 
