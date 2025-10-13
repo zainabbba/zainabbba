@@ -55,4 +55,3 @@ Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM 
 
 ---
 
-⭐ **"Turning ideas into AI-powered impact."**
