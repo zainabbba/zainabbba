@@ -36,6 +36,19 @@ Face verification using **DeepFace** for access control and attendance systems.
 Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM data.  
 *Tech:* SQL, Power BI, Python automation scripts
 
+#### 💹 Tadawul AI Tool
+AI tool analyzes **news from Saudi stock market companies** to help investors.  
+It uses **NLP** to identify market trends, categorize news by relevance, and summarize key points — providing valuable insights for **investment decisions**.  
+*Tech:* Python, NLP, Text Summarization, Sentiment Analysis
+
+#### 🧠 Deep Phishing Detector
+A system that efficiently detects **phishing websites** by classifying URLs as either **phishing or legitimate** using **CNN, LSTM, and hybrid LSTM-CNN** architectures.  
+*Tech:* Deep Learning, CNN, LSTM, Python
+
+#### 💉 AI-powered COVID Vaccine Sentiment Analyzer
+A sentiment analysis system identifying **Saudi sentiments toward the COVID-19 vaccine** — helping understand public perceptions, concerns, and emotions that may influence **herd immunity goals**.  
+*Tech:* NLP, Sentiment Analysis, Python, Data Visualization
+
 ---
 
 ### 🏆 Achievements
@@ -54,4 +67,3 @@ Interactive **Power BI dashboards** showing KPIs and incident patterns for ITSM 
 </p>
 
 ---
-
