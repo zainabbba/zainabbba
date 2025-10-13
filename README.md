@@ -45,7 +45,7 @@ It uses **NLP** to identify market trends, categorize news by relevance, and sum
 A system that efficiently detects **phishing websites** by classifying URLs as either **phishing or legitimate** using **CNN, LSTM, and hybrid LSTM-CNN** architectures.  
 *Tech:* Deep Learning, CNN, LSTM, Python
 
-#### 💉 AI-powered COVID Vaccine Sentiment Analyzer
+#### 💉 [AI-powered COVID Vaccine Sentiment Analyzer](https://github.com/zainabbba/Sentiment-Analysis-System)
 A sentiment analysis system identifying **Saudi sentiments toward the COVID-19 vaccine** — helping understand public perceptions, concerns, and emotions that may influence **herd immunity goals**.  
 *Tech:* NLP, Sentiment Analysis, Python, Data Visualization
 
