@@ -41,7 +41,7 @@ AI tool analyzes **news from Saudi stock market companies** to help investors.
 It uses **NLP** to identify market trends, categorize news by relevance, and summarize key points — providing valuable insights for **investment decisions**.  
 *Tech:* Python, NLP, Text Summarization, Sentiment Analysis
 
-#### 🧠 Deep Phishing Detector (https://github.com/zainabbba/Phishing-Detection-System#)
+#### 🧠 [Deep Phishing Detector](https://github.com/zainabbba/Phishing-Detection-System#)
 A system that efficiently detects **phishing websites** by classifying URLs as either **phishing or legitimate** using **CNN, LSTM, and hybrid LSTM-CNN** architectures.  
 *Tech:* Deep Learning, CNN, LSTM, Python
 
